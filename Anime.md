@@ -9,4 +9,5 @@ Jujutsu Kaizen
 Enbu
 Demon Slayer
 ChainSaw Man
+Ao haru Ride (Blue spring ride)
 
