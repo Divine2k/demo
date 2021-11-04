@@ -1,7 +1,7 @@
 Bleach
 High School DxD
 Your Name
-NANA
+Battle in 5 sec
 Rise of the Shield Hero
 MHA
 HxH
