@@ -6,5 +6,5 @@ Rise of the Shield Hero
 MHA
 HxH
 Jujutsu Kaizen
-Platinum Ends
+Enbu
 
