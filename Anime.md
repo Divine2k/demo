@@ -1,4 +1,5 @@
 Bleach
+SNFU
 High School DxD
 Your Name
 Battle in 5 sec
