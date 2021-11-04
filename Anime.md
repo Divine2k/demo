@@ -7,4 +7,5 @@ MHA
 HxH
 Jujutsu Kaizen
 Enbu
+Demon Slayer
 
