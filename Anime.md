@@ -8,4 +8,5 @@ HxH
 Jujutsu Kaizen
 Enbu
 Demon Slayer
+ChainSaw Man
 
